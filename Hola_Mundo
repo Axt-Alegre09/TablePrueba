@@ -1,0 +1,5 @@
+public class nombre{
+	pubic static void main(Strign[] args){
+    system.out.print("Hola Mundo");
+  }
+}
